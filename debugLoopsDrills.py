@@ -102,19 +102,26 @@ START HERE
 #for i in "Dylan":
 #    print i
 #
-
+Dylan = ["D","y","l","a","n"]
+for i in Dylan:
+    print(i)
 #2)
 #for j in "Dylan":
 #    print i
-
+Dylan = ["D","y","l","a","n"]
+for j in Dylan:
+    print(j)
 
 #3)
 #for i in range(1, 5)
 #    print i 
 #ANSWER:
-
+for i in range(1, 5):
+    print(i)
 #4)
 ##3)
 #for i in range(1, 5:
 #    print i 
 #ANSWER:
+for i in range(1, 5):
+    print(i)
